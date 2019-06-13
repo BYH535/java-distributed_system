@@ -1,0 +1,3 @@
+com\company\storemanagement\models\Product.class
+com\company\storemanagement\ProductServiceImpl.class
+com\company\storemanagement\ProductService.class
